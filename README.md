@@ -42,10 +42,10 @@
 
 ---
 
-## ✨ Sobre mim
-- 🎯 Foco atual: Desenvolvimento **Front-End e Mobile**  
-- 📚 Aprendendo cada vez mais sobre **React, Node.js e boas práticas**  
-- 🌱 Sempre buscando evoluir e compartilhar conhecimento  
+✨ Sobre mim
+🎯 Foco atual: Desenvolvimento Back-End e construção de APIs robustas
+📚 Aprendendo cada vez mais sobre Node.js, Arquitetura de Software e Bancos de Dados
+🌱 Sempre buscando evoluir, otimizar soluções e compartilhar conhecimento
 
 ---
 
