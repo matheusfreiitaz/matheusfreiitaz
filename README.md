@@ -10,7 +10,7 @@
   💡 Apaixonado por criar interfaces modernas, responsivas e funcionais.
 </p>
 
----
+--- 
 
 
 ## 🚀 Tecnologias & Ferramentas  
