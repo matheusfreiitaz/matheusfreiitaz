@@ -5,7 +5,7 @@
  
 <!-- Apresentação -->
 <h3 align="center">👋 Olá, seja bem-vindo ao meu GitHub!</h3>
-<p align="center">
+<p align="center"> 
   🚀 Desenvolvedor FULL STACK  | 🎓 Estudante de Ciência da Computação <br/> 
   💡 Apaixonado por criar interfaces modernas, responsivas e funcionais.
 </p>
