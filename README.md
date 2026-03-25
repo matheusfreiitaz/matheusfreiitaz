@@ -1,45 +1,42 @@
 # ⚡ Matheus Freitas
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6A5ACD&height=80&section=header&text=Software%20Engineer%20Intern&fontSize=30&fontAlignY=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&background=FFFFFF00&width=450&height=50&lines=Software+Engineer+Intern;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
 </p>
 
-### 👋 Olá! 
-Sou estudante de **Ciência da Computação** e apaixonado por construir soluções robustas. Atualmente, foco meu aprendizado no ecossistema de desenvolvimento moderno, transitando do Front-end para a especialização em Back-end.
+### 👋 Olá!
+Sou estudante de **Ciência da Computação**. Minha paixão é arquitetar e desenvolver sistemas robustos, escaláveis e eficientes, focando atualmente na transição para a especialização em Back-end.
 
 ---
 
-### 🛠️ Core Stack & Tecnologias
+### 🛠️ Core Stack & Skills
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+Abaixo, meu conjunto principal de ferramentas para desenvolvimento de software moderno:
 
-**Backend & Infrastructure**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,java,nodejs,go,docker,postgres,mongodb&theme=dark" alt="My Skills Grid" />
+</p>
 
-**Databases**
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/nosql-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+* **Frontend:** Construção de interfaces semânticas e estilizadas.
+* **Backend & Infra:** Desenvolvimento de APIs robustas em Java, Node.js e Go, com containerização usando Docker.
+* **Databases:** Modelagem e manipulação de dados em ambientes SQL (PostgreSQL) e NoSQL (MongoDB).
 
 ---
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusFelipe&show_icons=true&theme=transparent&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFelipe&layout=compact&theme=transparent&title_color=6A5ACD&text_color=ffffff&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=transparent&title_color=6A5ACD&icon_color=6A5ACD&text_color=777777&bg_color=0,00000000&hide_border=true&locale=pt-br" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=transparent&title_color=6A5ACD&text_color=777777&bg_color=0,00000000&hide_border=true&locale=pt-br" />
 </p>
 
 ---
 
 ### 📫 Conecte-se comigo
+
 <p align="left">
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://matheusfreitasdev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
