@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&background=FFFFFF00&width=450&height=50&lines=Software+Engineer+Intern;Full+Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
 </p>
 
-### 👋 Olá!
+###  Olá!
 Sou estudante de **Ciência da Computação**. Minha paixão é arquitetar e desenvolver sistemas robustos, escaláveis e eficientes, focando atualmente na transição para a especialização em Back-end.
 
 ---
