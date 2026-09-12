@@ -17,7 +17,7 @@ Abaixo, meu conjunto principal de ferramentas para desenvolvimento de software m
 </p>
 
 * **Frontend:** Construção de interfaces semânticas e estilizadas.
-* **Backend & Infra:** Desenvolvimento de APIs robustas em Java, Node.js e Go, com containerização usando Docker.
+* **Backend & Infra:** Desenvolvimento de APIs robustas em PHP com Laravel, Node.js e C# para servidor de integração, com containerização usando Docker.
 * **Databases:** Modelagem e manipulação de dados em ambientes SQL (PostgreSQL) e NoSQL (MongoDB).
 
 ---
