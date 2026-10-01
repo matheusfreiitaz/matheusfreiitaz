@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Matheus Freitas - Desenvolvedor Backend" width="100%" />
+<img src="./assets/header.svg" alt="Matheus Freitas - Desenvolvedor FulStack" width="100%" />
 
-<img src="./assets/typing.svg" alt="Plataformas SaaS multi-tenant, integracoes REST e SOAP, debug em producao, backend escalavel" width="760" />
+<img src="./assets/typing.svg" alt="Plataformas SaaS multi-tenant, integracoes REST e SOAP, debug em producao, FulStack escalavel" width="760" />
 
 <br/><br/>
 
