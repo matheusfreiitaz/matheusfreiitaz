@@ -40,7 +40,7 @@
 
 class Matheus extends Developer
 {
-    public string $role       = 'Desenvolvedor Backend';
+    public string $role       = 'Desenvolvedor FulStack';
     public string $location   = 'Minas Gerais, BR';
     public int    $experience = 3; // anos+
 
