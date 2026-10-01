@@ -1,35 +1,36 @@
-<!-- ======================= HEADER ======================= -->
 <div align="center">
 
 <img src="./assets/header.svg" alt="Matheus Freitas - Desenvolvedor Backend" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=45&lines=Plataformas+SaaS+multi-tenant;Integra%C3%A7%C3%B5es+REST+%2B+SOAP;Debug+em+produ%C3%A7%C3%A3o+sem+regress%C3%B5es;Backend+escal%C3%A1vel+e+de+alto+desempenho" alt="Typing SVG" />
+<img src="./assets/typing.svg" alt="Plataformas SaaS multi-tenant, integracoes REST e SOAP, debug em producao, backend escalavel" width="760" />
 
-<br/>
+<br/><br/>
 
-<a href="https://matheusfreitas77.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6A5ACD?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/STATUS-DISPONIVEL-2EA043?style=for-the-badge" alt="Disponivel" />
+<a href="https://matheusfreitas77.netlify.app/"><img src="./assets/btn-portfolio.svg" alt="Portfólio" height="40" /></a>
+<a href="https://www.linkedin.com/in/seu-linkedin"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>
+<a href="mailto:seuemail@gmail.com"><img src="./assets/btn-email.svg" alt="E-mail" height="40" /></a>
+<img src="./assets/btn-status.svg" alt="Disponível para vagas" height="40" />
 
 </div>
 
 <br/>
 
-<!-- ======================= PORTFÓLIO ======================= -->
 <div align="center">
 
 ## Meu Portfólio
 
 <a href="https://matheusfreitas77.netlify.app/">
-  <img src="./assets/portfolio-card.svg" alt="Portfólio de Matheus Freitas" width="85%" />
+  <img src="./assets/portfolio-card.svg" alt="Portfólio de Matheus Freitas - clique para acessar" width="85%" />
 </a>
+
+<br/><br/>
+
+<img src="./assets/highlights.svg" alt="Mais de 3 anos de experiência, SaaS multi-tenant, REST e SOAP, suporte N2 a N3" width="85%" />
 
 </div>
 
 <br/>
 
-<!-- ======================= SOBRE ======================= -->
 ## Sobre mim
 
 ```php
@@ -57,12 +58,11 @@ class Matheus extends Developer
 
 <br/>
 
-<!-- ======================= STACK ======================= -->
 ## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,vue,html,css,mysql,postgres,mongodb,docker,git&theme=dark&perline=13" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,vue,html,css,mysql,postgres,mongodb,docker,git&theme=dark&perline=13" alt="Tecnologias" />
 
 </div>
 
@@ -76,7 +76,6 @@ class Matheus extends Developer
 
 <br/>
 
-<!-- ======================= CASES ======================= -->
 ## Cases técnicos
 
 > Problemas reais de produção que diagnostiquei e corrigi. Detalhes de clientes omitidos por confidencialidade.
@@ -125,7 +124,6 @@ class Matheus extends Developer
 
 <br/>
 
-<!-- ======================= PROJETOS ======================= -->
 ## Galeria de projetos
 
 <table>
@@ -133,65 +131,42 @@ class Matheus extends Developer
     <td width="50%" valign="top">
       <h4>Dashboard Financeiro</h4>
       Análise financeira com visualização de dados em tempo real e relatórios personalizados.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+      <img src="./assets/tech-dashboard.svg" alt="React, Node.js, Chart.js" height="26" />
     </td>
     <td width="50%" valign="top">
       <h4>Loja Virtual</h4>
       E-commerce completo com carrinho, checkout e integração com pagamentos.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="./assets/tech-loja.svg" alt="Next.js, Stripe, MongoDB" height="26" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>Sistema de Folha de Ponto</h4>
       Registro e gestão de horas de funcionários, com relatórios de produtividade.<br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+      <img src="./assets/tech-ponto.svg" alt="Node.js, Express, Vue.js" height="26" />
     </td>
     <td width="50%" valign="top">
       <h4>Gestão para Barbearia</h4>
       Agendamento de horários, controle de clientes e gerenciamento de serviços.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="./assets/tech-barbearia.svg" alt="React, TypeScript, Tailwind" height="26" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ======================= STATS ======================= -->
-## GitHub em números
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=matheusfreiiaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6A5ACD&include_all_commits=true" height="165" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfreiiaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=matheusfreiiaz&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=6A5ACD&currStreakLabel=A78BFA" alt="Streak" />
-
-</div>
-
-<br/>
-
-<!-- ======================= CONTATO ======================= -->
 <div align="center">
 
 ## Vamos conversar?
 
 Disponível para oportunidades e colaborações em projetos desafiadores.
 
-<a href="https://matheusfreitas77.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6A5ACD?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://matheusfreitas77.netlify.app/"><img src="./assets/btn-portfolio.svg" alt="Portfólio" height="40" /></a>
+<a href="https://www.linkedin.com/in/seu-linkedin"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>
+<a href="mailto:seuemail@gmail.com"><img src="./assets/btn-email.svg" alt="E-mail" height="40" /></a>
 
 <br/><br/>
 
-<img src="./assets/footer.svg" alt="Rodapé" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
 
 </div>
