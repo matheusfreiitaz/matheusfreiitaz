@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="899" height="100" viewBox="0 0 899 100">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#00C9FF"/>
+  </linearGradient></defs>
+  <g transform="translate(0,0)">
+    <rect x="1" y="1" width="213" height="98" rx="14" fill="#0D1117" stroke="url(#g)" stroke-width="1.5"/>
+    <text x="107.5" y="48" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="url(#g)">+3</text>
+    <text x="107.5" y="76" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">anos de experiência</text>
+  </g>
+  <g transform="translate(228,0)">
+    <rect x="1" y="1" width="213" height="98" rx="14" fill="#0D1117" stroke="url(#g)" stroke-width="1.5"/>
+    <text x="107.5" y="48" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="url(#g)">SaaS</text>
+    <text x="107.5" y="76" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">multi-tenant em produção</text>
+  </g>
+  <g transform="translate(456,0)">
+    <rect x="1" y="1" width="213" height="98" rx="14" fill="#0D1117" stroke="url(#g)" stroke-width="1.5"/>
+    <text x="107.5" y="48" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="url(#g)">REST + SOAP</text>
+    <text x="107.5" y="76" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">integrações com DMS</text>
+  </g>
+  <g transform="translate(684,0)">
+    <rect x="1" y="1" width="213" height="98" rx="14" fill="#0D1117" stroke="url(#g)" stroke-width="1.5"/>
+    <text x="107.5" y="48" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="url(#g)">N2 → N3</text>
+    <text x="107.5" y="76" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">suporte e infraestrutura</text>
+  </g>
+</svg>
