@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="40" viewBox="0 0 300 40">
+  <rect x="1" y="1" width="298" height="38" rx="8" fill="#0D1117" stroke="#2EA043" stroke-width="1.5"/>
+  <circle cx="28" cy="20" r="5" fill="#2EA043"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="48" y="26" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3FB950">DISPONÍVEL PARA VAGAS</text>
+</svg>
