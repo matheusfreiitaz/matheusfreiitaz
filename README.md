@@ -1,16 +1,16 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:8A2BE2,100:00C9FF&height=220&section=header&text=Matheus%20Freitas&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Backend%20%C2%B7%20PHP%20%26%20Laravel&descSize=20&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
+<img src="./assets/header.svg" alt="Matheus Freitas - Desenvolvedor Backend" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=45&lines=Plataformas+SaaS+multi-tenant;Integra%C3%A7%C3%B5es+REST+%2B+SOAP;Debug+em+produ%C3%A7%C3%A3o+sem+regress%C3%B5es;Backend+escal%C3%A1vel+e+de+alto+desempenho" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://matheusfreitas77.netlify.app/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" /></a>
+<a href="https://matheusfreitas77.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6A5ACD?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-2EA043?style=for-the-badge" alt="Disponível" />
+<img src="https://img.shields.io/badge/STATUS-DISPONIVEL-2EA043?style=for-the-badge" alt="Disponivel" />
 
 </div>
 
@@ -22,14 +22,8 @@
 ## Meu Portfólio
 
 <a href="https://matheusfreitas77.netlify.app/">
-  <img src="https://image.thum.io/get/width/1200/crop/700/https://matheusfreitas77.netlify.app/" alt="Preview do portfólio de Matheus Freitas" width="85%" />
+  <img src="./assets/portfolio-card.svg" alt="Portfólio de Matheus Freitas" width="85%" />
 </a>
-
-<br/><br/>
-
-<a href="https://matheusfreitas77.netlify.app/"><img src="https://img.shields.io/badge/ACESSAR_PORTF%C3%93LIO_%E2%86%92-6A5ACD?style=for-the-badge&logoColor=white" alt="Acessar portfólio" /></a>
-
-<sub>Experiência · Cases técnicos · Projetos · Jornada · Laboratório interativo</sub>
 
 </div>
 
@@ -79,19 +73,6 @@ class Matheus extends Developer
 | **Frontend** | HTML, CSS, JavaScript, TypeScript, Vue.js |
 | **Dados** | MySQL, PostgreSQL, MongoDB |
 | **Infra** | Docker, Git, redes e suporte N2/N3 |
-
-<br/>
-
-<!-- ======================= EXPERIÊNCIA ======================= -->
-## Trajetória
-
-| Período | Papel | Destaque |
-| :-- | :-- | :-- |
-| **2026 – atual** | Desenvolvedor Full Stack | Sustentação e evolução de SaaS multi-tenant do setor automotivo, com integrações DMS via REST e SOAP |
-| **2025 – atual** | Desenvolvedor Web Freelance | Sistemas web sob medida, do levantamento de requisitos à entrega |
-| **2024 – atual** | Suporte Técnico N2 → N3 | Infraestrutura de redes, NOC e resolução de incidentes complexos |
-| **2025 – 2026** | Instrutor de Informática | Lógica de programação, HTML, CSS e JavaScript, com material didático autoral |
-| **2023 – 2024** | Desenvolvedor na 4mti | Sistemas corporativos em PHP e Laravel, APIs REST e MySQL |
 
 <br/>
 
@@ -189,10 +170,10 @@ class Matheus extends Developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheusfreitas77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6A5ACD&include_all_commits=true" height="165" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfreitas77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=matheusfreiiaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6A5ACD&include_all_commits=true" height="165" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfreiiaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=matheusfreitas77&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=6A5ACD&currStreakLabel=A78BFA" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=matheusfreiiaz&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=6A5ACD&currStreakLabel=A78BFA" alt="Streak" />
 
 </div>
 
@@ -205,10 +186,12 @@ class Matheus extends Developer
 
 Disponível para oportunidades e colaborações em projetos desafiadores.
 
-<a href="https://matheusfreitas77.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://matheusfreitas77.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6A5ACD?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8A2BE2,100:6A5ACD&height=120&section=footer" alt="Footer" width="100%" />
+<br/><br/>
+
+<img src="./assets/footer.svg" alt="Rodapé" width="100%" />
 
 </div>
