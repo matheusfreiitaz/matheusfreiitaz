@@ -27,7 +27,7 @@
   <clipPath id="cl3"><rect x="129.2" y="0" width="0" height="54">
     <animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.8375;0.9625;0.9925;1.0000" values="0.00;0.00;501.60;501.60;0.00;0.00"/>
   </rect></clipPath>
-  <text clip-path="url(#cl3)" x="129.2" y="35" textLength="501.6" lengthAdjust="spacingAndGlyphs" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700" fill="#A78BFA">Backend escalável e de alto desempenho</text>
+  <text clip-path="url(#cl3)" x="129.2" y="35" textLength="501.6" lengthAdjust="spacingAndGlyphs" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700" fill="#A78BFA">FullStack escalável e de alto desempenho</text>
   <rect y="12" width="2" height="28" fill="#A78BFA" opacity="0">
     <animate attributeName="x" dur="16s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.8375;0.9625;0.9925;1.0000" values="129.20;129.20;630.80;630.80;129.20;129.20"/>
     <animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.7525;0.9925;0.9950;1.0000" values="0.00;0.00;1.00;1.00;0.00;0.00"/>
